@@ -4,7 +4,7 @@ const RefreshToken = require('../models/token');
 
 class JWTService{
     //sign access token
-    signAccessToken(payload, expiryTime){
+    static signAccessToken(payload, expiryTime){
         return jwt.sign(payload, ACCESS_TOKEN_SECRET, {expiresIn: expiryTime});
     }
 

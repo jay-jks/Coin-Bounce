@@ -15,6 +15,8 @@ app.use(router);
 
 dbConnect();
 
+app.use("/storage", express.static("storage"));
+
 // app.get('/', (req, res) => res.json({msg: 'Hello'}));
 
 app.use(errorHandler);
