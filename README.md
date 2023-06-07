@@ -1,3 +1,0 @@
-# coin-bounce
-
-Mern Project

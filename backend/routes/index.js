@@ -6,25 +6,21 @@ const auth = require('../middlewares/auth');
 
 const router = express.Router();
 
-//testing
-router.get('/test', (req, res) =>res.json({msg: 'Working!'}));
+// user
 
-//user
-
-//register
+// register
 router.post('/register', authController.register);
 
-//login
+// login
 router.post('/login', authController.login);
 
-//logout
-router.post('/logout', auth, authController.logout);
+// logout
+router.post('/logout', auth, authController.logout)
 
-//refresh
+// refresh
 router.get('/refresh', authController.refresh);
 
-
-//blog
+// blog
 
 // create
 router.post('/blog', auth, blogController.create);
@@ -41,14 +37,11 @@ router.put('/blog', auth, blogController.update);
 // delete
 router.delete('/blog/:id', auth, blogController.delete);
 
-
-//comment
-
+// comment
 // create 
 router.post('/comment', auth, commentController.create);
 
 // get 
 router.get('/comment/:id', auth, commentController.getById);
-
 
 module.exports = router;
