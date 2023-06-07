@@ -38,7 +38,7 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
   </tr>
 </table>    
 
-<hr>
+<!-- <hr> -->
 
 <br>
 
