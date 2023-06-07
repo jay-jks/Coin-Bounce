@@ -1,7 +1,41 @@
-# coin-bounce
+# Coin Bounce
 
-Mern Project
+Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us. 
 
-Upadted backend
+## Features
 
-Updated frontend
+- Browse the latest news and blogs on cryptocurrencies.
+- User authentication and registration.
+- Allows users to create, edit, and delete articles.
+- User comments and discussions on articles.
+- Admin panel to manage articles and user accounts.
+
+## Technologies Used
+
+- MongoDB: A NoSQL database used for storing article data and user information.
+- Express.js: A backend framework for building APIs and handling server-side logic.
+- React.js: A JavaScript library for building user interfaces.
+- Node.js: A JavaScript runtime environment for server-side development.
+- Redux: A predictable state container for managing application state.
+- Axios: A promise-based HTTP client for making API requests.  
+
+## Screenshots
+<br>
+
+<table>
+    <tr>
+        <td><img src = "/screenshots/1.jpg" ></td>
+        <td><img src = "/screenshots/2.jpg" ></td>
+        <td><img src = "/screenshots/3.jpg" ></td>
+    </tr>
+    <tr>
+        <td><img src = "/screenshots/1.jpg" ></td>
+  </tr>
+</table>    
+
+<br>
+<hr>
+
+## Contact
+
+If you have any questions or feedback, please contact us. We'd love to hear from you!
