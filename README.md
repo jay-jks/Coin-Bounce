@@ -26,10 +26,10 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
     <tr>
         <td><img src = "/screenshots/1.jpg" ></td>
         <td><img src = "/screenshots/2.jpg" ></td>
-        <td><img src = "/screenshots/3.jpg" ></td>
     </tr>
     <tr>
-        <td><img src = "/screenshots/1.jpg" ></td>
+        <td><img src = "/screenshots/3.jpg" ></td>
+        <td><img src = "/screenshots/4.jpg" ></td>
   </tr>
 </table>    
 
