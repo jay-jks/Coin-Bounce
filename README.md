@@ -1,6 +1,6 @@
 # Coin Bounce
 
-Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us. 
+Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us.
 
 <br>
 
@@ -10,7 +10,6 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
 - User authentication and registration.
 - Allows users to create, edit, and delete articles.
 - User comments and discussions on articles.
-- Admin panel to manage articles and user accounts.
 
 <br>
 
