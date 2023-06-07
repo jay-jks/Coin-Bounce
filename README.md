@@ -45,3 +45,5 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
 ## Contact
 
 If you have any questions or feedback, please contact us. We'd love to hear from you!
+
+<br>
