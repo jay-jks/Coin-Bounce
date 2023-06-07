@@ -3,6 +3,7 @@
 Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us. 
 
 <br>
+
 ## Features
 
 - Browse the latest news and blogs on cryptocurrencies.
@@ -12,6 +13,7 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
 - Admin panel to manage articles and user accounts.
 
 <br>
+
 ## Technologies Used
 
 - MongoDB: A NoSQL database used for storing article data and user information.
@@ -22,6 +24,7 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
 - Axios: A promise-based HTTP client for making API requests.  
 
 <br>
+
 ## Screenshots
 <br>
 
@@ -36,10 +39,10 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
   </tr>
 </table>    
 
-<br>
 <hr>
 
 <br>
+
 ## Contact
 
 If you have any questions or feedback, please contact us. We'd love to hear from you!
