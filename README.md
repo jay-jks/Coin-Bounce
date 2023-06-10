@@ -1,5 +1,9 @@
+<div align="center">
+    
 # Coin Bounce
 
+<div>
+    
 Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us.
 
 <br>
