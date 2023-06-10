@@ -1,6 +1,11 @@
-
+<div align="center">
+    
 # Coin Bounce
     
+</div>
+
+<div align="left">
+
 Coin Bounce is a crypto-centric blog that provides the latest news and blogs on cryptocurrencies and related topics. Stay informed, engage in discussions, and explore the fascinating world of digital assets with us.
 
 <br>
@@ -48,3 +53,4 @@ Coin Bounce is a crypto-centric blog that provides the latest news and blogs on 
 If you have any questions or feedback, please contact us. We'd love to hear from you!
 
 <br>
+</div>
